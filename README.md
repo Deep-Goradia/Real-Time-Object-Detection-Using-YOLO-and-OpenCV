@@ -9,3 +9,6 @@ A real-time system that detects and labels multiple objects in video or webcam f
 - Draws bounding boxes and labels for each detected object
 - Uses YOLO for fast and accurate detection
 - Easy to integrate and extend for other applications
+
+## Note
+Download the "yolov3-tiny.weights" file from this link - https://drive.google.com/file/d/1mTv_SYMyWa8hfqL8R65lctoVK8TnwPrc/view?usp=drive_link , needed to run the project
